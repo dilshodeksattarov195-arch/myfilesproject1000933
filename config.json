@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfarse",
+        "uuid": 412386,
+        "checksum": "ouqrn6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
